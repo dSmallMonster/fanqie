@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">White Noise</string>
+    <string name="white_noise">White</string>
+    <string name="pink_noise">Pink</string>
+    <string name="brown_noise">Brown</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>
